@@ -1,0 +1,25 @@
+/*! normalize.css v7.0.0 | MIT License | github.com/necolas/normalize.css */
+
+
+
+.whoUse{height:auto;}.whoUse .customer{text-align:center;background-color:transparent;height:auto;padding-top:25px;box-sizing:border-box}.whoUse .customer .customer-header{color:#fff;font-size:30px;position:relative;display:inline-block;margin-top:0px;margin-bottom:35px;-ms-user-select:none;user-select:none;height:38px}.whoUse .customer .customer-header::after, .whoUse .customer .customer-header::before{content:'';position:absolute;top:20px;width:50px;border:1px solid #fff}.whoUse .customer .customer-header::before{left:-80px}.whoUse .customer .customer-header::after{right:-80px}.whoUse .customer .customer-brand{list-style:none;padding-left:0;font-size:0;margin-bottom:40px}.whoUse .customer .brand-item{-ms-user-select:none;user-select:none;width:200px;height:60px;margin:25px;margin-top:0;background-repeat:no-repeat;background-position:center;display:inline-block;vertical-align:middle}
+.whoUse .customer .brand-item.baidu{background-image:url(../images/links/logo-baidu@2x.png)}
+.whoUse .customer .brand-item.di4fanshi{background-image:url(../images/links/logo-di4fanshi@2x.png)}
+.whoUse .customer .brand-item.duolunduo{background-image:url(../images/links/logo-duolunduo@2x.png)}
+.whoUse .customer .brand-item.jingyou{background-image:url(../images/links/logo-jingyou@2x.png)}
+.whoUse .customer .brand-item.mc{background-image:url(../images/links/logo-mc@2x.png)}
+.whoUse .customer .brand-item.jinshan{background-image:url(../images/links/logo-jinshan@2x.png)}
+.whoUse .customer .brand-item.zhongkeyuan{background-image:url(../images/links/logo-zhongkeyuan@2x.png)}
+.whoUse .customer .brand-item.alcon{background-image:url(../images/links/logo-alcon@2x.png)}
+.whoUse .customer .brand-item.openbase{background-image:url(../images/links/logo-openbase@2x.png)}
+.whoUse .customer .brand-item.aqiukeji{background-image:url(../images/links/logo-aqiukeji@2x.png)}
+.whoUse .customer .brand-item.huananligong{background-image:url(../images/links/logo-huananligong@2x.png)}
+.whoUse .customer .brand-item.huazhongkeji{background-image:url(../images/links/logo-huazhongkeji@2x.png)}
+.whoUse .customer .brand-item.nuohua{background-image:url(../images/links/logo-nuohua@2x.png)}
+/*.whoUse .customer .brand-item.stanford{background-image:url(../images/links/logo-stanford@2x.png)}
+.whoUse .customer .brand-item.princeton{background-image:url(../images/links/logo-princeton@2x.png)}*/
+.whoUse .customer .brand-item.wating{color:#b8b8b8}.whoUse .customer .brand-item .text-0{font-size:18px}.whoUse .customer .brand-item .text-1{font-size:24px}
+
+
+
+
